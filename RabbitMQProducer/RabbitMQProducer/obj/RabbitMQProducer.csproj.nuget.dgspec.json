@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RabbitMQ\\RabbitMQProducer\\RabbitMQProducer\\RabbitMQProducer.csproj": {}
+    "D:\\Projects from git\\RabbitMQ-Basic\\RabbitMQProducer\\RabbitMQProducer\\RabbitMQProducer.csproj": {}
   },
   "projects": {
-    "D:\\RabbitMQ\\RabbitMQProducer\\RabbitMQProducer\\RabbitMQProducer.csproj": {
+    "D:\\Projects from git\\RabbitMQ-Basic\\RabbitMQProducer\\RabbitMQProducer\\RabbitMQProducer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RabbitMQ\\RabbitMQProducer\\RabbitMQProducer\\RabbitMQProducer.csproj",
+        "projectUniqueName": "D:\\Projects from git\\RabbitMQ-Basic\\RabbitMQProducer\\RabbitMQProducer\\RabbitMQProducer.csproj",
         "projectName": "RabbitMQProducer",
-        "projectPath": "D:\\RabbitMQ\\RabbitMQProducer\\RabbitMQProducer\\RabbitMQProducer.csproj",
+        "projectPath": "D:\\Projects from git\\RabbitMQ-Basic\\RabbitMQProducer\\RabbitMQProducer\\RabbitMQProducer.csproj",
         "packagesPath": "C:\\Users\\imran.hossain\\.nuget\\packages\\",
-        "outputPath": "D:\\RabbitMQ\\RabbitMQProducer\\RabbitMQProducer\\obj\\",
+        "outputPath": "D:\\Projects from git\\RabbitMQ-Basic\\RabbitMQProducer\\RabbitMQProducer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\imran.hossain\\AppData\\Roaming\\NuGet\\NuGet.Config",

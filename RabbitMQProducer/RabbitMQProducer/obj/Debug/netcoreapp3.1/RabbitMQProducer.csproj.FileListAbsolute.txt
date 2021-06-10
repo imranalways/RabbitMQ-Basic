@@ -14,3 +14,19 @@ D:\RabbitMQ\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQPr
 D:\RabbitMQ\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.dll
 D:\RabbitMQ\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.pdb
 D:\RabbitMQ\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.genruntimeconfig.cache
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.exe
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.deps.json
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.runtimeconfig.json
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.runtimeconfig.dev.json
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.dll
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQProducer.pdb
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.csprojAssemblyReference.cache
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.AssemblyInfoInputs.cache
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.AssemblyInfo.cs
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.csproj.CoreCompileInputs.cache
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.csproj.CopyComplete
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.dll
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.pdb
+D:\Projects from git\RabbitMQ-Basic\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp3.1\RabbitMQProducer.genruntimeconfig.cache

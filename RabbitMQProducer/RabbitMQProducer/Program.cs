@@ -6,8 +6,8 @@ namespace RabbitMQProducer
     {
         static void Main(string[] args)
         {
-            BasicProducer.ProducerBasic();
-            //WorkQueue.QueueWorke();
+            //BasicProducer.ProducerBasic();
+            WorkQueue.QueueWorke();
             //PublishExchange.Exchange();
             //DirectExchange.ExchangeDirect();
             //TopicExchange.ExchangeTopic();

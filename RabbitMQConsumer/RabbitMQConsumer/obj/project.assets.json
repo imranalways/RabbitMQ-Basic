@@ -114,11 +114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RabbitMQ\\RabbitMQConsumer\\RabbitMQConsumer\\RabbitMQConsumer.csproj",
+      "projectUniqueName": "D:\\Projects from git\\RabbitMQ-Basic\\RabbitMQConsumer\\RabbitMQConsumer\\RabbitMQConsumer.csproj",
       "projectName": "RabbitMQConsumer",
-      "projectPath": "D:\\RabbitMQ\\RabbitMQConsumer\\RabbitMQConsumer\\RabbitMQConsumer.csproj",
+      "projectPath": "D:\\Projects from git\\RabbitMQ-Basic\\RabbitMQConsumer\\RabbitMQConsumer\\RabbitMQConsumer.csproj",
       "packagesPath": "C:\\Users\\imran.hossain\\.nuget\\packages\\",
-      "outputPath": "D:\\RabbitMQ\\RabbitMQConsumer\\RabbitMQConsumer\\obj\\",
+      "outputPath": "D:\\Projects from git\\RabbitMQ-Basic\\RabbitMQConsumer\\RabbitMQConsumer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\imran.hossain\\AppData\\Roaming\\NuGet\\NuGet.Config",

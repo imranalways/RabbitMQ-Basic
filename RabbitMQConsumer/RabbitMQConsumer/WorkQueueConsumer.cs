@@ -32,8 +32,8 @@ namespace RabbitMQConsumer
                     Console.WriteLine("Consumer Received {0}", message);
 
                     // string[] a = message.Split('.');
-                    int dot = message.Split('.').Length - 1;
-                    Thread.Sleep(dot * 1000);
+                    //int dot = message.Split('.').Length - 1;
+                    Thread.Sleep(5 * 1000);
                     Console.WriteLine("[x] Work is done");
                     channel.BasicAck(deliveryTag: ea.DeliveryTag, multiple: false);
                 };
