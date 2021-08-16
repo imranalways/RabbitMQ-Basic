@@ -25,7 +25,7 @@ namespace ms_2
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
-        [Obsolete]
+        
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMassTransit(x =>
@@ -41,7 +41,7 @@ namespace ms_2
                     });
                     cfg.ReceiveEndpoint("orderQueue", ep =>
                     {
-                        ep.PrefetchCount = 16;
+                        ep.PrefetchCount = 1;
                         ep.UseMessageRetry(r => r.Interval(2, 100));
                         ep.ConfigureConsumer<OrderConsumer>(provider);
                     });

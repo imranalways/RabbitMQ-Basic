@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4hLBD4Ezb+BGS+jHxR0X61nyb1juTcTMku+jZgYZStnbHI448TJ5fe8TvRUisO04U9RbiGjvBrcwvkRbzlDftg==",
+  "dgSpecHash": "6HfxpJeG01JWVoi6UJ65k99ln8/N70waG0+g9yxCL99GVmDCIZ/qV6p5vlYQ4ePMjyNBiw8zaDPSXcb42YLiuw==",
   "success": true,
-  "projectFilePath": "D:\\RabbitMQ\\ms-1\\ms-2\\ms-2.csproj",
+  "projectFilePath": "D:\\Projects from git\\RabbitMQ-Basic\\MicroserviceRabbitMQ\\ms-2\\ms-2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\imran.hossain\\.nuget\\packages\\automatonymous\\5.1.1\\automatonymous.5.1.1.nupkg.sha512",
     "C:\\Users\\imran.hossain\\.nuget\\packages\\greenpipes\\4.0.0\\greenpipes.4.0.0.nupkg.sha512",

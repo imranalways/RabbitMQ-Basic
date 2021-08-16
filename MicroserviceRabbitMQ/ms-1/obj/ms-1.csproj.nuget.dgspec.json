@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RabbitMQ\\ms-1\\ms-1\\ms-1.csproj": {}
+    "D:\\Projects from git\\RabbitMQ-Basic\\MicroserviceRabbitMQ\\ms-1\\ms-1.csproj": {}
   },
   "projects": {
-    "D:\\RabbitMQ\\ms-1\\ms-1\\ms-1.csproj": {
+    "D:\\Projects from git\\RabbitMQ-Basic\\MicroserviceRabbitMQ\\ms-1\\ms-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RabbitMQ\\ms-1\\ms-1\\ms-1.csproj",
+        "projectUniqueName": "D:\\Projects from git\\RabbitMQ-Basic\\MicroserviceRabbitMQ\\ms-1\\ms-1.csproj",
         "projectName": "ms-1",
-        "projectPath": "D:\\RabbitMQ\\ms-1\\ms-1\\ms-1.csproj",
+        "projectPath": "D:\\Projects from git\\RabbitMQ-Basic\\MicroserviceRabbitMQ\\ms-1\\ms-1.csproj",
         "packagesPath": "C:\\Users\\imran.hossain\\.nuget\\packages\\",
-        "outputPath": "D:\\RabbitMQ\\ms-1\\ms-1\\obj\\",
+        "outputPath": "D:\\Projects from git\\RabbitMQ-Basic\\MicroserviceRabbitMQ\\ms-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\imran.hossain\\AppData\\Roaming\\NuGet\\NuGet.Config",

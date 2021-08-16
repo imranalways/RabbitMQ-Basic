@@ -41,3 +41,46 @@ D:\RabbitMQ\ms-1\ms-2\obj\Debug\netcoreapp3.1\ms-2.csproj.CopyComplete
 D:\RabbitMQ\ms-1\ms-2\obj\Debug\netcoreapp3.1\ms-2.dll
 D:\RabbitMQ\ms-1\ms-2\obj\Debug\netcoreapp3.1\ms-2.pdb
 D:\RabbitMQ\ms-1\ms-2\obj\Debug\netcoreapp3.1\ms-2.genruntimeconfig.cache
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\ms-2.exe
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\ms-2.deps.json
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\ms-2.runtimeconfig.json
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\ms-2.runtimeconfig.dev.json
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\ms-2.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\ms-2.pdb
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\Automatonymous.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\GreenPipes.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\MassTransit.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\MassTransit.AspNetCoreIntegration.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\MassTransit.RabbitMqTransport.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\NewId.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\obj\Debug\netcoreapp3.1\ms-2.csprojAssemblyReference.cache
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\obj\Debug\netcoreapp3.1\ms-2.AssemblyInfoInputs.cache
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\obj\Debug\netcoreapp3.1\ms-2.AssemblyInfo.cs
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\obj\Debug\netcoreapp3.1\ms-2.csproj.CoreCompileInputs.cache
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\obj\Debug\netcoreapp3.1\ms-2.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\obj\Debug\netcoreapp3.1\staticwebassets\ms-2.StaticWebAssets.Manifest.cache
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\obj\Debug\netcoreapp3.1\staticwebassets\ms-2.StaticWebAssets.xml
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\obj\Debug\netcoreapp3.1\scopedcss\bundle\ms-2.styles.css
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\obj\Debug\netcoreapp3.1\ms-2.RazorTargetAssemblyInfo.cache
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\obj\Debug\netcoreapp3.1\ms-2.csproj.CopyComplete
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\obj\Debug\netcoreapp3.1\ms-2.dll
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\obj\Debug\netcoreapp3.1\ms-2.pdb
+D:\Projects from git\RabbitMQ-Basic\MicroserviceRabbitMQ\ms-2\obj\Debug\netcoreapp3.1\ms-2.genruntimeconfig.cache

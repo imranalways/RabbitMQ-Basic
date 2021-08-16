@@ -19,7 +19,7 @@ namespace ms_1.Controllers
             _bus = bus;
         }
         [HttpPost]
-        public async Task<IActionResult> CreateTicket(Order order)
+        public async Task<IActionResult> Placeorder(Order order)
         {
             if (order != null)
             {
